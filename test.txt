@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 main_hello
-=======
-asdfsdf
->>>>>>> mylocal
+push_hello
